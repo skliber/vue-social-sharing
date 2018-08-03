@@ -214,7 +214,7 @@ var SocialSharing = {
         scrollbars: false,
         location: false,
         directories: false,
-        width: 720,
+        width: 750,
         height: 436,
         top: 0,
         left: 0,
